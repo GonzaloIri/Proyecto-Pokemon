@@ -1,0 +1,6 @@
+C:\Users\Gonzalo\Desktop\.net\proectoP01\Dominioo\bin\Debug\Dominioo.dll
+C:\Users\Gonzalo\Desktop\.net\proectoP01\Dominioo\bin\Debug\Dominioo.pdb
+C:\Users\Gonzalo\Desktop\.net\proectoP01\Dominioo\obj\Debug\Dominioo.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\.net\proectoP01\Dominioo\obj\Debug\Dominioo.dll
+C:\Users\Gonzalo\Desktop\.net\proectoP01\Dominioo\obj\Debug\Dominioo.pdb
+C:\Users\Gonzalo\Desktop\.net\proectoP01\Dominioo\obj\Debug\Dominioo.csproj.AssemblyReference.cache
